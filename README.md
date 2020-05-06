@@ -4,7 +4,7 @@ This is a mod for Supergiant's action rougelite: Hades. This mod turns the God k
 Requires: Python version 3.
 
 * Navigate a command line to your hades base directory. Enter `/Content`. Clone this repository there.
-* Run 'python importmod.py`
+* Run 'python importmods.py`
 
 # How to disable.
 
