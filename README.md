@@ -7,5 +7,4 @@ Requires: Python version 3.
 * Run 'python importmods.py`
 
 # How to disable.
-
-* In `Scripts/Mods/SuperKeepsakeMod/superkeepsakeMod.lua` find this line: `Enabled = true, -- Easy access to turn on and off this mod` and set it to false in order to disable the mod.
+In `Scripts/Mods/SuperKeepsakeMod/superkeepsakeMod.lua` find this line: `Enabled = true, -- Easy access to turn on and off this mod` and set it to false in order to disable the mod.
